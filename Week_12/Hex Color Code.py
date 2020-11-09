@@ -1,3 +1,4 @@
+# Hackos : 30
 import re
 n = int(input())
 
