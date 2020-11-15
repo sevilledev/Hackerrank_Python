@@ -1,3 +1,4 @@
+# Hackos : 20
 import numpy
 
 n = int(input())
